@@ -1,0 +1,13 @@
+package olivecrypto.upi;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class IdbDbdemoApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(IdbDbdemoApplication.class, args);
+	}
+
+}
